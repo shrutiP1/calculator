@@ -15,3 +15,10 @@ num2=20
 
 mul=$(($num1*$num2))
 echo $mul
+
+num1=40
+num2=2
+
+div =$(($num1/$num2))
+echo div
+
